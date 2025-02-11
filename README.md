@@ -1,7 +1,7 @@
 
 # Breakout Game
 
-![Breakout Game Screenshot](screenshot.png)
+
 
 A simple Breakout game built using HTML5 Canvas, following a tutorial by Brad Traversy. This project is a great way to learn the basics of game development with JavaScript and Canvas.
 
